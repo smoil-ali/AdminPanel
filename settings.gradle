@@ -1,0 +1,2 @@
+rootProject.name = "Admin Panel"
+include ':app'
